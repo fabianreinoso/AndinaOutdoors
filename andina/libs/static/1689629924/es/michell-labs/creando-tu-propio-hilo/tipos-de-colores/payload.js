@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/michell-labs/creando-tu-propio-hilo/tipos-de-colores", {data:[{_img:{}},{}],fetch:{},mutations:[]});

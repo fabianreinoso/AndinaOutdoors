@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/stock-service/machine-knitting/eco-baby-cotton", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

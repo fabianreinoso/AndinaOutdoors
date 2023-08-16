@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/collections/machine-knitting/cloud-line/sucre", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

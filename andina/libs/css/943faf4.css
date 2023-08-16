@@ -1,0 +1,182 @@
+/*purgecss start ignore*/
+.menu-floating[data-v-0cdaf624]{
+  flex-direction:column;
+  width:100%
+}
+@media(min-width:1024px){
+.menu-floating[data-v-0cdaf624]{
+    width:var(--logo-container-width);
+    padding:0;
+    display:flex
+}
+}
+.menu-floating.items-length-1[data-v-0cdaf624]{
+  display:none
+}
+@media(min-width:1024px){
+.menu-floating.items-length-1[data-v-0cdaf624]{
+    display:block
+}
+}
+.menu-floating.expanded[data-v-0cdaf624]{
+  background-color:#ececec;
+  position:fixed
+}
+@media(min-width:1024px){
+.menu-floating.expanded[data-v-0cdaf624]{
+    background-color:transparent
+}
+}
+.menu-floating.expanded .menu[data-v-0cdaf624]{
+  opacity:1;
+  visibility:visible;
+  height:100vh;
+  background-color:#ececec
+}
+@media(min-width:1024px){
+.menu-floating.creating-your-own-yarn .menu[data-v-0cdaf624],.menu-floating.new-yarn-and-colour-innovation .menu[data-v-0cdaf624]{
+    padding-top:25px
+}
+}
+@media(min-width:1536px){
+.menu-floating.creating-your-own-yarn .menu[data-v-0cdaf624],.menu-floating.new-yarn-and-colour-innovation .menu[data-v-0cdaf624]{
+    padding-top:35px
+}
+}
+@media(min-width:1024px){
+.menu-floating.creating-your-own-yarn .line[data-v-0cdaf624],.menu-floating.new-yarn-and-colour-innovation .line[data-v-0cdaf624]{
+    top:25px
+}
+}
+.menu-floating .line[data-v-0cdaf624]{
+  position:absolute;
+  right:0px;
+  bottom:0px;
+  display:none
+}
+@media (min-width: 1024px){
+.menu-floating .line[data-v-0cdaf624]{
+    display:block
+}
+}
+@media (min-width: 1536px){
+.menu-floating .line[data-v-0cdaf624]{
+    top:0px
+}
+}
+.menu-floating .line[data-v-0cdaf624]{
+  border-right:1px solid rgba(135,131,131,.3)
+}
+@media(min-width:1024px){
+.menu-floating .nuxt-link-exact-active[data-v-0cdaf624]{
+    background-color:#ebebeb
+}
+}
+.menu-floating .menu[data-v-0cdaf624]{
+  opacity:0;
+  visibility:hidden;
+  position:absolute;
+  width:100%;
+  padding-left:2.125rem;
+  padding-right:2.125rem;
+  height:0;
+  transition:all .5s;
+  background-color:transparent
+}
+@media(min-width:1024px){
+.menu-floating .menu[data-v-0cdaf624]{
+    padding:0;
+    opacity:1;
+    visibility:visible;
+    position:relative;
+    background-color:transparent;
+    height:100%
+}
+}
+.menu-floating .menu a[data-v-0cdaf624]{
+  background-image:url(../img/arrow-right.eaacd80.svg);
+  background-repeat:no-repeat;
+  background-position:100%;
+  border-bottom:1px solid #bababa
+}
+@media(min-width:1024px){
+.menu-floating .menu a[data-v-0cdaf624]{
+    border-bottom:none;
+    background-image:none
+}
+}
+@media(min-width:1024px){
+.menu-floating .menu a.nuxt-link-exact-active .arrow-right[data-v-0cdaf624]{
+    border-left-color:#ebebeb;
+    transform:translateX(100%)
+}
+}
+.menu-floating .menu .position[data-v-0cdaf624]{
+  color:#cbcbcb
+}
+.menu-floating .image[data-v-0cdaf624]{
+  height:50px
+}
+.menu-floating .arrow-right[data-v-0cdaf624]{
+  width:0;
+  height:0;
+  border-top:.75rem solid transparent;
+  border-bottom:.75rem solid transparent;
+  border-left:1rem solid transparent;
+  position:absolute;
+  right:0;
+  --tw-translate-x:0px
+}
+.header-title[data-v-0cdaf624]{
+  display:flex;
+  align-items:center;
+  padding-left:2.125rem;
+  padding-right:2.125rem
+}
+@media(min-width:1024px){
+.header-title[data-v-0cdaf624]{
+    padding:0
+}
+}
+.menu-mobile[data-v-0cdaf624]{
+  position:relative;
+  top:auto;
+  left:auto;
+  transform:scale(.8) translateX(-4px)
+}
+@media(min-width:1024px){
+.menu-mobile[data-v-0cdaf624]{
+    display:none
+}
+}
+
+/*purgecss end ignore*/
+/*purgecss start ignore*/
+.image[data-v-378cf908]{
+  height:79px
+}
+a[data-v-378cf908]{
+  font-size:14px;
+  max-width:140px
+}
+@media(min-width:1024px){
+a[data-v-378cf908]{
+    max-width:none;
+    font-size:16px
+}
+}
+
+/*purgecss end ignore*/
+/*purgecss start ignore*/
+.page-next-prev[data-v-0dc5c25c]{
+  justify-content:space-between;
+  align-items:center;
+  padding:20px
+}
+@media(min-width:1024px){
+.page-next-prev[data-v-0dc5c25c]{
+    padding:20px 40px
+}
+}
+
+/*purgecss end ignore*/

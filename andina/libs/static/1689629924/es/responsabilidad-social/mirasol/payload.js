@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/responsabilidad-social/mirasol", {data:[{_img:{}},{}],fetch:{},mutations:[]});

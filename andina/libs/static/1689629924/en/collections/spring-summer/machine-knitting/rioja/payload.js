@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/collections/spring-summer/machine-knitting/rioja", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

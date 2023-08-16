@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/collections/spring-summer/machine-knitting/bagua", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

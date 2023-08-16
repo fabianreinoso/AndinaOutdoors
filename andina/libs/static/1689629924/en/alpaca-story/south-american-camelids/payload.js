@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/alpaca-story/south-american-camelids", {data:[{_img:{}},{}],fetch:{},mutations:[]});

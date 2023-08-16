@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/collections/machine-knitting/prestige-line/brigthon", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

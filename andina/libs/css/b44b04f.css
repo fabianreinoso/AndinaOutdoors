@@ -1,0 +1,13 @@
+/*purgecss start ignore*/
+@media(min-width:1024px){
+.page-collection-index .collections[data-v-7c2522df]{
+    gap:10px
+}
+}
+@media(min-width:1024px){
+.page-collection-index .collections .collection-line[data-v-7c2522df]{
+    width:calc(25% - 8px)
+}
+}
+
+/*purgecss end ignore*/

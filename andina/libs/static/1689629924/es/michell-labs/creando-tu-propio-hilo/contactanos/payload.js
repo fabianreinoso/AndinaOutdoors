@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/michell-labs/creando-tu-propio-hilo/contactanos", {data:[{_img:{}},{}],fetch:{},mutations:[]});

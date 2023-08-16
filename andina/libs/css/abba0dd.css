@@ -1,0 +1,13 @@
+/*purgecss start ignore*/
+.icon[data-v-6ffaf8f8]{
+  width:35px;
+  display:flex;
+  justify-content:center;
+  margin-right:10px;
+  flex-shrink:0
+}
+.item[data-v-6ffaf8f8]{
+  margin-bottom:30px
+}
+
+/*purgecss end ignore*/

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/la-alpaca/lana-peruana-de-los-andes", {data:[{_img:{}},{}],fetch:{},mutations:[]});

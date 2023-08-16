@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/michell-labs/creando-tu-propio-hilo/nuestras-fibras", {data:[{_img:{}},{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/origins/environmental-commitment", {data:[{_img:{}},{}],fetch:{},mutations:[]});

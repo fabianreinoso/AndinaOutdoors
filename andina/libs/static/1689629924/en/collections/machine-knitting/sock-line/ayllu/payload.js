@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/collections/machine-knitting/sock-line/ayllu", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

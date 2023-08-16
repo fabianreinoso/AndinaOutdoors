@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[52],{623:function(e,n,t){"use strict";t.r(n);var l=t(1).default.extend({name:"MichellLabsIndexPage"}),c=t(9),component=Object(c.a)(l,(function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"index"})}),[],!1,null,"a5abdf80",null);n.default=component.exports}}]);

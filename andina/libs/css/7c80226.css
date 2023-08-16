@@ -1,0 +1,45 @@
+/*purgecss start ignore*/
+.hero-image[data-v-7bc80793]{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  --tw-bg-opacity:1;
+  background-color:rgba(209, 213, 219, var(--tw-bg-opacity));
+  background-size:cover;
+  background-position:center
+}
+.control[data-v-7bc80793]{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center
+}
+video[data-v-7bc80793]{
+  width:0
+}
+
+/*purgecss end ignore*/
+/*purgecss start ignore*/
+img[data-v-0cc2846e]{
+  height:79px
+}
+@media(min-width:1024px){
+.items-8 a[data-v-0cc2846e]{
+    max-width:150px
+}
+}
+
+/*purgecss end ignore*/
+/*purgecss start ignore*/
+@media(min-width:1024px){
+.creating[data-v-4850806f]{
+    gap:normal;
+    justify-content:space-between
+}
+}
+.page .content p[data-v-4850806f]{
+  margin-bottom:.5rem
+}
+
+/*purgecss end ignore*/

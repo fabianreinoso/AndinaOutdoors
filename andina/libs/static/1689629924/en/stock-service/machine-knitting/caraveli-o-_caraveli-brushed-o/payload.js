@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/stock-service/machine-knitting/caraveli-o-|caraveli-brushed-o", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

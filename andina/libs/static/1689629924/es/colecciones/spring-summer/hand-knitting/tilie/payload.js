@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/colecciones/spring-summer/hand-knitting/tilie", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

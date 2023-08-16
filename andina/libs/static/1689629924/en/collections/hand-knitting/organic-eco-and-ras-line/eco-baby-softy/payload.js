@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/collections/hand-knitting/organic-eco-and-ras-line/eco-baby-softy", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/social-responsibility/michell-art-contest", {data:[{_img:{}},{}],fetch:{},mutations:[]});

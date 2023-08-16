@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/collections/hand-knitting/terra-line/aymaraes", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

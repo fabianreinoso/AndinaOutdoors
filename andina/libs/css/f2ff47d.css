@@ -1,0 +1,66 @@
+/*purgecss start ignore*/
+.logo-mirasol[data-v-13ef556a]{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:30px 0 0;
+  gap:30px;
+  flex-direction:column
+}
+@media(min-width:1024px){
+.logo-mirasol[data-v-13ef556a]{
+    padding:0;
+    flex-direction:row
+}
+}
+.image-cols.JMM_0971 .image[data-v-13ef556a]{
+  min-height:442px
+}
+.children-eating .image[data-v-13ef556a]{
+  min-height:400px
+}
+.video[data-v-13ef556a]{
+  margin-bottom:180px
+}
+form[data-v-13ef556a]{
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+  padding:0 20px
+}
+@media(min-width:1024px){
+form[data-v-13ef556a]{
+    padding:0
+}
+}
+form textarea[data-v-13ef556a]{
+  height:271px;
+  background-color:#f1f1f1;
+  border:1px solid #707070;
+  border-radius:3px
+}
+@media(min-width:1024px){
+form textarea[data-v-13ef556a]{
+    width:495px
+}
+}
+form button[data-v-13ef556a]{
+  width:184px;
+  height:46px;
+  background-color:#6a6a6a;
+  border-radius:5px;
+  text-transform:uppercase;
+  color:#fff
+}
+@media(min-width:1024px)and (max-width:1535px){
+.page-content .image-with-description .text[data-v-13ef556a]{
+    width:45%
+}
+}
+@media(min-width:1024px)and (max-width:1535px){
+.page-content .image-with-description .image[data-v-13ef556a]{
+    width:55%
+}
+}
+
+/*purgecss end ignore*/

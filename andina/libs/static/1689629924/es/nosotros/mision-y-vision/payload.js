@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/nosotros/mision-y-vision", {data:[{_img:{}},{}],fetch:{},mutations:[]});

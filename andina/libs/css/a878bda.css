@@ -1,0 +1,62 @@
+/*purgecss start ignore*/
+.hero-loop[data-v-8f1b3080]{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  --tw-bg-opacity:1;
+  background-color:rgba(209, 213, 219, var(--tw-bg-opacity));
+  background-size:cover;
+  background-position:center
+}
+.control[data-v-8f1b3080]{
+  display:flex;
+  flex-direction:column;
+  height:100%;
+  justify-content:center;
+  align-items:center
+}
+
+/*purgecss end ignore*/
+/*purgecss start ignore*/
+.logo-with-text .logo-item[data-v-22f9f09e]{
+  flex-direction:column
+}
+@media(min-width:1280px){
+.logo-with-text .logo-item[data-v-22f9f09e]{
+    flex-direction:column
+}
+}
+@media(min-width:1536px){
+.logo-with-text .logo-item[data-v-22f9f09e]{
+    flex-direction:row
+}
+}
+.logo-with-text .logo-item .logo[data-v-22f9f09e]{
+  width:150px
+}
+.logo-with-text.gots .logo-item .logo img[data-v-22f9f09e]{
+  width:80px
+}
+@media(min-width:1536px){
+.logo-with-text.gots .logo-item .logo img[data-v-22f9f09e]{
+    width:124px
+}
+}
+.sustainable-easy button[data-v-22f9f09e]{
+  background-color:#414e65
+}
+.sustainable-green button[data-v-22f9f09e]{
+  background-color:#748d1a
+}
+.upcycle button[data-v-22f9f09e]{
+  background-color:#49583b
+}
+@media(min-width:1024px)and (max-width:1535px){
+.page-content .logo-with-text .image-item[data-v-22f9f09e]{
+    min-width:445px;
+    min-height:490px
+}
+}
+
+/*purgecss end ignore*/

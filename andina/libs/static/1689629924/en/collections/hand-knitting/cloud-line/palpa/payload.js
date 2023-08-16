@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/collections/hand-knitting/cloud-line/palpa", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

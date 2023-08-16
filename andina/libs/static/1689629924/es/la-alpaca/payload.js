@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/la-alpaca", {data:[{_img:{}},{}],fetch:{},mutations:[]});

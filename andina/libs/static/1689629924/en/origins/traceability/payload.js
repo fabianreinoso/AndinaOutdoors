@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/origins/traceability", {data:[{_img:{}},{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/colecciones/tejido-a-maquina/terra-line/melgar", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

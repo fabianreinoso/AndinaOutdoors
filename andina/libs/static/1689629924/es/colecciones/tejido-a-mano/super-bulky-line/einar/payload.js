@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/colecciones/tejido-a-mano/super-bulky-line/einar", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

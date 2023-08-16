@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/michell-labs/new-yarn-and-colour-innovation/sustainable-easy-wash", {data:[{_img:{}},{}],fetch:{},mutations:[]});

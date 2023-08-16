@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/stock-service/machine-knitting/tingo-o", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

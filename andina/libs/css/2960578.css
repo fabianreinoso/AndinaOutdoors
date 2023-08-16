@@ -1,0 +1,30 @@
+/*purgecss start ignore*/
+.other-lines[data-v-4f175eae]{
+  border-top:1px solid rgba(135,131,131,.3);
+  border-bottom:1px solid rgba(135,131,131,.3);
+  height:var(--menu-other-lines-height);
+  font-size:11px;
+  align-items:center;
+  gap:10px;
+  --tw-bg-opacity:1;
+  background-color:rgba(255, 255, 255, var(--tw-bg-opacity));
+  padding-left:1.25rem;
+  padding-right:1.25rem;
+  display:none
+}
+@media(min-width:1024px){
+.other-lines[data-v-4f175eae]{
+    display:flex
+}
+}
+@media(min-width:1536px){
+.other-lines[data-v-4f175eae]{
+    font-size:12px
+}
+}
+.other-lines .label[data-v-4f175eae]{
+  margin-left:10px;
+  font-weight:700
+}
+
+/*purgecss end ignore*/

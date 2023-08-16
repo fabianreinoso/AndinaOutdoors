@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/colecciones/colecciones-top", {data:[{_img:{}}],fetch:{},mutations:[]});

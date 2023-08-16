@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fmichell\u002Flibs\u002Fstatic\u002F1689701345",layout:"default",error:a,state:a,serverRendered:false,routePath:"\u002Fen\u002Fcollections\u002Fspring-summer-23\u002Fmachine-knitting",config:{_app:{basePath:"\u002Fmichell\u002F",assetsPath:"\u002Fmichell\u002Flibs\u002F",cdnURL:a},content:{dbHash:"1aac8f05"}}}}(null));

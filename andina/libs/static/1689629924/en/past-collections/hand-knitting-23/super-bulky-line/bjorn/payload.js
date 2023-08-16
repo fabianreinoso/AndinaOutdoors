@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/past-collections/hand-knitting-23/super-bulky-line/bjorn", {data:[{_img:{}},{},{},{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/michell-labs", {data:[{_img:{}}],fetch:{},mutations:[]});

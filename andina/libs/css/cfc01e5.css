@@ -1,0 +1,48 @@
+/*purgecss start ignore*/
+.hero-image[data-v-7bc80793]{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  --tw-bg-opacity:1;
+  background-color:rgba(209, 213, 219, var(--tw-bg-opacity));
+  background-size:cover;
+  background-position:center
+}
+.control[data-v-7bc80793]{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center
+}
+video[data-v-7bc80793]{
+  width:0
+}
+
+/*purgecss end ignore*/
+/*purgecss start ignore*/
+.group[data-v-8f69d166]:last-child{
+  background-color:#ececec
+}
+@media (min-width: 1024px){
+.group[data-v-8f69d166]:last-child{
+    background-color:transparent
+}
+}
+@media (min-width: 1280px){
+.group:first-child .column[data-v-8f69d166]:last-child{
+    padding-right:50px;
+    margin-right:50px
+}
+.group:first-child .column[data-v-8f69d166]:last-child:after{
+    content:"";
+    width:1px;
+    background-color:#dfdfdf;
+    position:absolute;
+    top:0;
+    right:50px;
+    bottom:0
+}
+}
+
+/*purgecss end ignore*/

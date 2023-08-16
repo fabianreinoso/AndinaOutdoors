@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/stock-service/machine-knitting/fs-alpaca-3-10", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

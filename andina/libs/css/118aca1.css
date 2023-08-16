@@ -1,0 +1,43 @@
+/*purgecss start ignore*/
+.hero-video-loop[data-v-6eb9f6f2]{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  --tw-bg-opacity:1;
+  background-color:rgba(209, 213, 219, var(--tw-bg-opacity));
+  background-size:cover;
+  background-position:center
+}
+.control[data-v-6eb9f6f2]{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  height:100%
+}
+video[data-v-6eb9f6f2]{
+  width:0
+}
+
+/*purgecss end ignore*/
+/*purgecss start ignore*/
+.fairtrade[data-v-58f7fbad]{
+  padding-top:2.5rem
+}
+@media(min-width:1024px){
+.fairtrade[data-v-58f7fbad]{
+    padding-top:0
+}
+}
+.fairtrade img[data-v-58f7fbad]{
+  width:105px;
+  padding-bottom:5rem
+}
+@media(min-width:1024px){
+.fairtrade img[data-v-58f7fbad]{
+    padding-bottom:0
+}
+}
+
+/*purgecss end ignore*/

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/colecciones/tejido-a-mano/apu-line/sirca", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

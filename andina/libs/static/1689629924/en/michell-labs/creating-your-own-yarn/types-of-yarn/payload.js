@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/michell-labs/creating-your-own-yarn/types-of-yarn", {data:[{_img:{}},{}],fetch:{},mutations:[]});

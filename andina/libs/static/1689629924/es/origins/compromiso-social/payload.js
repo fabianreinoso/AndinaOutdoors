@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/origins/compromiso-social", {data:[{_img:{}},{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/colecciones/tejido-a-mano/terra-line/ocros", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

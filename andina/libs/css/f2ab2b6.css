@@ -1,0 +1,11 @@
+/*purgecss start ignore*/
+.page-collection .colors .item .color-menu[data-v-762e15e8]{
+  flex-direction:row;
+  position:relative;
+  right:0
+}
+.page-collection .colors .item .color-menu img[data-v-762e15e8]{
+  width:42px
+}
+
+/*purgecss end ignore*/

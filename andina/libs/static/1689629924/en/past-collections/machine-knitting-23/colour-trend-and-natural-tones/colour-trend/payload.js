@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/past-collections/machine-knitting-23/colour-trend-and-natural-tones/colour-trend", {data:[{_img:{}},{},{},{}],fetch:{},mutations:[]});

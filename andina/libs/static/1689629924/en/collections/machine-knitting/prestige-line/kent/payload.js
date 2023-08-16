@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/collections/machine-knitting/prestige-line/kent", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

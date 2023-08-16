@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/alpaca-story/peruvian-highland-wool", {data:[{_img:{}},{}],fetch:{},mutations:[]});

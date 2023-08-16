@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/origins/informes-de-sostenibilidad", {data:[{_img:{}},{}],fetch:{},mutations:[]});

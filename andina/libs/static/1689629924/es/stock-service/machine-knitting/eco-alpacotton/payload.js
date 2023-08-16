@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/stock-service/machine-knitting/eco-alpacotton", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

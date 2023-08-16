@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/stock-service/hand-knitting/indiecita-dk", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/past-collections/machine-knitting-23", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

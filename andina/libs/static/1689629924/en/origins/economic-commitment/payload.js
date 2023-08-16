@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/origins/economic-commitment", {data:[{_img:{}},{}],fetch:{},mutations:[]});

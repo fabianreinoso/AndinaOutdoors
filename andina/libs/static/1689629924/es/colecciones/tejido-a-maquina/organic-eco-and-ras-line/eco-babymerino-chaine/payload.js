@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/colecciones/tejido-a-maquina/organic-eco-and-ras-line/eco-babymerino-chaine", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

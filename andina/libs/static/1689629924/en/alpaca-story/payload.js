@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/alpaca-story", {data:[{_img:{}},{}],fetch:{},mutations:[]});

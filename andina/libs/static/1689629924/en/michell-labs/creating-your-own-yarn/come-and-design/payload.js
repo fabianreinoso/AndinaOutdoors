@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/michell-labs/creating-your-own-yarn/come-and-design", {data:[{_img:{}},{}],fetch:{},mutations:[]});

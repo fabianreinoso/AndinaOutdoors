@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/about-us/production-process", {data:[{_img:{}},{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[65],{631:function(e,t,n){"use strict";n.r(t);var l=n(1).default.extend({name:"AboutUsMainPage",layout:"past-collection"}),o=n(9),component=Object(o.a)(l,(function(){var e=this.$createElement;return(this._self._c||e)("NuxtChild")}),[],!1,null,"0e1dfb0f",null);t.default=component.exports}}]);

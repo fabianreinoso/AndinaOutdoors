@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/stock-service/machine-knitting/baby-alpaca-4-9", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

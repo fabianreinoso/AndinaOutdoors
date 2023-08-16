@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/collections/machine-knitting/organic-eco-and-ras-line/eco-baby-soff", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

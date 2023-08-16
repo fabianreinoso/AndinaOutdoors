@@ -1,0 +1,53 @@
+/*purgecss start ignore*/
+.hero-video-loop[data-v-6eb9f6f2]{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  --tw-bg-opacity:1;
+  background-color:rgba(209, 213, 219, var(--tw-bg-opacity));
+  background-size:cover;
+  background-position:center
+}
+.control[data-v-6eb9f6f2]{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  height:100%
+}
+video[data-v-6eb9f6f2]{
+  width:0
+}
+
+/*purgecss end ignore*/
+/*purgecss start ignore*/
+.image-with-car[data-v-fc2949c8]{
+  min-height:400px
+}
+@media(min-width:1024px){
+.image-with-car[data-v-fc2949c8]{
+    min-height:840px
+}
+}
+.green .image[data-v-fc2949c8]{
+  min-height:440px
+}
+@media(min-width:1024px){
+.thought[data-v-fc2949c8]{
+    max-width:630px
+}
+}
+@media(min-width:1024px)and (max-width:1535px){
+.page-content .image-with-description .text[data-v-fc2949c8]{
+    width:50%
+}
+}
+@media(min-width:1024px)and (max-width:1535px){
+.page-content .image-with-description .image[data-v-fc2949c8]{
+    width:50%;
+    min-height:480px
+}
+}
+
+/*purgecss end ignore*/

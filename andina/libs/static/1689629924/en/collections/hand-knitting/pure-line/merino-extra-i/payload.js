@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/collections/hand-knitting/pure-line/merino-extra-i", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

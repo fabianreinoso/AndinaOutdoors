@@ -1,0 +1,31 @@
+/*purgecss start ignore*/
+img[data-v-0cc2846e]{
+  height:79px
+}
+@media(min-width:1024px){
+.items-8 a[data-v-0cc2846e]{
+    max-width:150px
+}
+}
+
+/*purgecss end ignore*/
+/*purgecss start ignore*/
+.hero-loop[data-v-8f1b3080]{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  --tw-bg-opacity:1;
+  background-color:rgba(209, 213, 219, var(--tw-bg-opacity));
+  background-size:cover;
+  background-position:center
+}
+.control[data-v-8f1b3080]{
+  display:flex;
+  flex-direction:column;
+  height:100%;
+  justify-content:center;
+  align-items:center
+}
+
+/*purgecss end ignore*/

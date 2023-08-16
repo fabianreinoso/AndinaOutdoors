@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/colecciones/tejido-a-maquina/colour-trend-and-natural-tones/colour-trend", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

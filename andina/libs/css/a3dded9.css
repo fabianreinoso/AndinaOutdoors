@@ -1,0 +1,10 @@
+/*purgecss start ignore*/
+.page-collection-index .collections[data-v-400caca4]{
+  gap:10px;
+  flex-wrap:nowrap
+}
+.page-collection-index .collections .collection-line[data-v-400caca4]{
+  width:100%
+}
+
+/*purgecss end ignore*/

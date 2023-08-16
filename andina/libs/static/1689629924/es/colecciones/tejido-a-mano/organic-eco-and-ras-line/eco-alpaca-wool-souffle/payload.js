@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/colecciones/tejido-a-mano/organic-eco-and-ras-line/eco-alpaca-wool-souffle", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

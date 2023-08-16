@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/michell-labs/innovaciones-en-hilos-y-colores", {data:[{_img:{}},{}],fetch:{},mutations:[]});

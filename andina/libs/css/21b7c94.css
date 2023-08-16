@@ -1,0 +1,55 @@
+/*purgecss start ignore*/
+.hero-loop[data-v-8f1b3080]{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  --tw-bg-opacity:1;
+  background-color:rgba(209, 213, 219, var(--tw-bg-opacity));
+  background-size:cover;
+  background-position:center
+}
+.control[data-v-8f1b3080]{
+  display:flex;
+  flex-direction:column;
+  height:100%;
+  justify-content:center;
+  align-items:center
+}
+
+/*purgecss end ignore*/
+/*purgecss start ignore*/
+.carbon .image-item[data-v-1e562fe3]{
+  min-height:390px
+}
+@media(min-width:1024px){
+.carbon .image-item[data-v-1e562fe3]{
+    min-height:790px
+}
+}
+.carbon .logo-item[data-v-1e562fe3]{
+  margin-bottom:50px
+}
+@media(min-width:1024px){
+.carbon .logo-item[data-v-1e562fe3]{
+    margin-bottom:30px
+}
+}
+.page-content .logo-with-text .logo-item[data-v-1e562fe3]{
+  flex-direction:column
+}
+@media(min-width:1024px){
+.page-content .logo-with-text .logo-item[data-v-1e562fe3]{
+    flex-direction:row
+}
+}
+.logos .text-logo[data-v-1e562fe3]{
+  font-size:9px
+}
+@media(min-width:1024px)and (max-width:1535px){
+.image-with-description .image[data-v-1e562fe3]{
+    min-height:500px
+}
+}
+
+/*purgecss end ignore*/

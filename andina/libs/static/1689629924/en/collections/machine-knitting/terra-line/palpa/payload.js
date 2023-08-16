@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/collections/machine-knitting/terra-line/palpa", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

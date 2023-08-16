@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/michell-labs/tendencia-de-los-colores", {data:[{_img:{}}],fetch:{},mutations:[]});

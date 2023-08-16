@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/colecciones/spring-summer", {data:[{_img:{}},{}],fetch:{},mutations:[]});

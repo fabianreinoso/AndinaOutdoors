@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/colecciones/tejido-a-mano/cloud-line/espinar", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

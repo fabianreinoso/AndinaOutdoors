@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/past-collections/machine-knitting-23/prestige-line/argyll", {data:[{_img:{}},{},{},{}],fetch:{},mutations:[]});

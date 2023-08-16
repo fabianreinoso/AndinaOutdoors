@@ -1,0 +1,20 @@
+/*purgecss start ignore*/
+.scrollable-container .menu .item-header[data-v-6ce73c2c]{
+  font-size:15px;
+  font-weight:700;
+  display:flex;
+  align-items:center;
+  justify-content:space-between
+}
+.scrollable-container .menu .item-container.head[data-v-6ce73c2c]{
+  margin-top:10px
+}
+.scrollable-container .menu .item[data-v-6ce73c2c]{
+  font-size:13px;
+  padding:0 0 0 10px
+}
+a.self[data-v-6ce73c2c]{
+  cursor:default
+}
+
+/*purgecss end ignore*/

@@ -1,0 +1,233 @@
+/*purgecss start ignore*/
+.index[data-v-d96d8436],.slide[data-v-d96d8436]{
+  height:100vh
+}
+.slide[data-v-d96d8436]{
+  width:100%
+}
+.slide.slide-1[data-v-d96d8436]{
+  background-image:url(../../../assets/michell/images/general/Inp_05-m%402x.jpg)
+}
+@media (min-width: 1024px){
+.slide.slide-1[data-v-d96d8436]{
+    background-image:url(../../../assets/michell/images/general/Inp_05%402x.jpg)
+}
+}
+.slide.slide-2[data-v-d96d8436]{
+  background-image:url(../../../assets/michell/images/general/Web-HK-m%402x.jpg)
+}
+@media (min-width: 1024px){
+.slide.slide-2[data-v-d96d8436]{
+    background-image:url(../../../assets/michell/images/general/Web-HK.jpg)
+}
+}
+.slide.slide-3[data-v-d96d8436]{
+  background-image:url(../../../assets/michell/images/general/Web-MK-m%402x.jpg)
+}
+@media (min-width: 1024px){
+.slide.slide-3[data-v-d96d8436]{
+    background-image:url(../../../assets/michell/images/general/Web-MK.jpg)
+}
+}
+.carousel>*[data-v-d96d8436]{
+  position:absolute;
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  background-size:cover
+}
+.carousel[data-v-d96d8436]>:first-child{
+  -webkit-animation:fade1-data-v-d96d8436 20s infinite;
+          animation:fade1-data-v-d96d8436 20s infinite
+}
+@-webkit-keyframes fade1-data-v-d96d8436{
+0%{
+    opacity:1;
+    transform:scale(1)
+}
+16.6666666667%{
+    opacity:1;
+    transform:scale(1)
+}
+33.3333333333%{
+    opacity:0;
+    transform:scale(1)
+}
+50%{
+    opacity:0;
+    transform:scale(1)
+}
+66.6666666667%{
+    opacity:0;
+    transform:scale(1)
+}
+83.3333333333%{
+    opacity:0;
+    transform:scale(1.2)
+}
+to{
+    opacity:1;
+    transform:scale(1)
+}
+}
+@keyframes fade1-data-v-d96d8436{
+0%{
+    opacity:1;
+    transform:scale(1)
+}
+16.6666666667%{
+    opacity:1;
+    transform:scale(1)
+}
+33.3333333333%{
+    opacity:0;
+    transform:scale(1)
+}
+50%{
+    opacity:0;
+    transform:scale(1)
+}
+66.6666666667%{
+    opacity:0;
+    transform:scale(1)
+}
+83.3333333333%{
+    opacity:0;
+    transform:scale(1.2)
+}
+to{
+    opacity:1;
+    transform:scale(1)
+}
+}
+.carousel[data-v-d96d8436]>:nth-child(2){
+  -webkit-animation:fade2-data-v-d96d8436 20s infinite;
+          animation:fade2-data-v-d96d8436 20s infinite
+}
+@-webkit-keyframes fade2-data-v-d96d8436{
+0%{
+    opacity:0;
+    transform:scale(1)
+}
+16.6666666667%{
+    opacity:0;
+    transform:scale(1.2)
+}
+33.3333333333%{
+    opacity:1;
+    transform:scale(1)
+}
+50%{
+    opacity:1;
+    transform:scale(1)
+}
+66.6666666667%{
+    opacity:0;
+    transform:scale(1)
+}
+83.3333333333%{
+    opacity:0;
+    transform:scale(1)
+}
+to{
+    opacity:0;
+    transform:scale(1)
+}
+}
+@keyframes fade2-data-v-d96d8436{
+0%{
+    opacity:0;
+    transform:scale(1)
+}
+16.6666666667%{
+    opacity:0;
+    transform:scale(1.2)
+}
+33.3333333333%{
+    opacity:1;
+    transform:scale(1)
+}
+50%{
+    opacity:1;
+    transform:scale(1)
+}
+66.6666666667%{
+    opacity:0;
+    transform:scale(1)
+}
+83.3333333333%{
+    opacity:0;
+    transform:scale(1)
+}
+to{
+    opacity:0;
+    transform:scale(1)
+}
+}
+.carousel[data-v-d96d8436]>:nth-child(3){
+  -webkit-animation:fade3-data-v-d96d8436 20s infinite;
+          animation:fade3-data-v-d96d8436 20s infinite
+}
+@-webkit-keyframes fade3-data-v-d96d8436{
+0%{
+    opacity:0;
+    transform:scale(1)
+}
+16.6666666667%{
+    opacity:0;
+    transform:scale(1)
+}
+33.3333333333%{
+    opacity:0;
+    transform:scale(1)
+}
+50%{
+    opacity:0;
+    transform:scale(1.2)
+}
+66.6666666667%{
+    opacity:1;
+    transform:scale(1)
+}
+83.3333333333%{
+    opacity:1;
+    transform:scale(1)
+}
+to{
+    opacity:0;
+    transform:scale(1)
+}
+}
+@keyframes fade3-data-v-d96d8436{
+0%{
+    opacity:0;
+    transform:scale(1)
+}
+16.6666666667%{
+    opacity:0;
+    transform:scale(1)
+}
+33.3333333333%{
+    opacity:0;
+    transform:scale(1)
+}
+50%{
+    opacity:0;
+    transform:scale(1.2)
+}
+66.6666666667%{
+    opacity:1;
+    transform:scale(1)
+}
+83.3333333333%{
+    opacity:1;
+    transform:scale(1)
+}
+to{
+    opacity:0;
+    transform:scale(1)
+}
+}
+
+/*purgecss end ignore*/

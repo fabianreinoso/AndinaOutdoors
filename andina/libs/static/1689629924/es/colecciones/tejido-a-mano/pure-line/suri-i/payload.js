@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/colecciones/tejido-a-mano/pure-line/suri-i", {data:[{_img:{}},{},{}],fetch:{},mutations:[]});

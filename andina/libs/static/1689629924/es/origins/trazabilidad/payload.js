@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/origins/trazabilidad", {data:[{_img:{}},{}],fetch:{},mutations:[]});
