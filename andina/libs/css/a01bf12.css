@@ -1,8 +1,9 @@
 /*purgecss start ignore*/
-.page-content .cols .image-container[data-v-33ebd5d2]{
-  background-size:contain;
-  background-repeat:no-repeat
+.page-content .cols .image-container[data-v-33ebd5d2] {
+  background-size: contain;
+  background-repeat: no-repeat;
 }
+
 .table[data-v-33ebd5d2]{
   margin:70px 0;
   color:#7a7a7a;
