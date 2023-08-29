@@ -1274,6 +1274,7 @@ body{
 }
 
 
+
 .image-container {
   width: calc(25% - 0.75rem); /* Ancho fijo para cada imagen con espacio entre ellas */
   height: 200px; /* Ajusta la altura según tus preferencias */
