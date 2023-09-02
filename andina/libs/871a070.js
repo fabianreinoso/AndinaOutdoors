@@ -1423,7 +1423,7 @@
                   ]),
                   e._v(" "),
                   o("div", { staticClass: "copyright" }, [
-                    e._v("Michell y Cia. 2023 All rights reserved."),
+                    e._v("AndinaOutdoors. 2023 All rights reserved."),
                   ]),
                 ]);
               },
