@@ -2078,7 +2078,7 @@
             text: "Origins by Michell presenta la información más relevante acerca de las acciones que estamos llevando a cabo para convertirnos en una empresa totalmente sostenible.",
           },
           news: {
-            category: "Michell Alpaca Blog",
+            category: "Alpaca Factory Blog",
             text: "Conozca nuestra historia, colaboradores, comunidad, noticias y nuestras últimas innovaciones.",
           },
         },
@@ -2363,7 +2363,7 @@
           },
           general: {
             index: {
-              title: "Michell Alpaca",
+              title: "Alpaca Factory",
               description:
                 "Con más de 90 años de experiencia y el conocimiento en el procesamiento de la fibra de alpaca, Michell & Cia. es hoy el pionero y el principal productor y exportador de tops e hilos de alpaca en el mundo.",
             },
